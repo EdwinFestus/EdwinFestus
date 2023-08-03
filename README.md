@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Mern, JavaScript**
 
-- 📄 Know about my experiences [portfolio.masterminddeveloper.com/downloadcv](portfolio.masterminddeveloper.com/downloadcv)
+- 📄 Know about my experiences [portfolio.masterminddeveloper.com/downloadcv](portfolio.masterminddeveloper.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
